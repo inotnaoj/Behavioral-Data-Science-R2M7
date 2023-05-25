@@ -10,3 +10,5 @@ Probando si me pide el token cada vez que hago un push
 Sigue pidiendolo
 
 seguimos probando
+
+verificamos que ahora con el git credential manager ya no me pide el token cada vezz:
